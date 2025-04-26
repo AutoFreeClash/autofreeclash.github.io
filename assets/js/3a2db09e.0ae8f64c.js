@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkautofreeclash_github_io=self.webpackChunkautofreeclash_github_io||[]).push([[121],{8070:e=>{e.exports=JSON.parse('{"tags":[{"label":"AutoFreeClash","permalink":"/blog/tags/autofreeclash","description":"Get High Quality but Cheap Clash Subscribe URL","count":1}]}')}}]);

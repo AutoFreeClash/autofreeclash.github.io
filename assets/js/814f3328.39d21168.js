@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkautofreeclash_github_io=self.webpackChunkautofreeclash_github_io||[]).push([[472],{5513:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Release Alpha","permalink":"/blog/release-alpha","unlisted":false,"date":"2025-04-26T09:42:59.000Z"}]}')}}]);
