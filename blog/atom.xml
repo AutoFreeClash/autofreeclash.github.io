@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="atom.xsl"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://autofreeclash.github.io/blog</id>
-    <title>AutoFreeClash Blog</title>
+    <title>AutoFreeClash Docs Blog</title>
     <updated>2025-04-26T09:42:59.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://autofreeclash.github.io/blog"/>
-    <subtitle>AutoFreeClash Blog</subtitle>
+    <subtitle>AutoFreeClash Docs Blog</subtitle>
     <icon>https://autofreeclash.github.io/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Release Alpha]]></title>
